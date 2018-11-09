@@ -1,5 +1,5 @@
 from_email,key,subject,smtp,message
-it.brijesh@gmail.com,knusfddlxpwynltf,Happy Diwali,smtp.gmail.com:587,"Jai Swaminarayan !
+it.brijesh@gmail.com,password,Happy Diwali,smtp.gmail.com:587,"Jai Swaminarayan !
 
 Hope you had a nice memory visting my house.
 
